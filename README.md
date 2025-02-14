@@ -4,3 +4,6 @@ I am redoing The Odin Project starting now. As part of The Odin Project, I am bu
 Skills needed for this project:
 
 - HTML
+
+## Demo
+[Demo](http://maulwurfde.github.io/odin-recipes2025)
